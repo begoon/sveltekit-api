@@ -17,3 +17,7 @@ pnpm run build
 ```bash
 pnpm run serve
 ```
+
+## Notes
+
+<https://github.com/sveltejs/kit/pull/2135/files>
