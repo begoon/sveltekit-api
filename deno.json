@@ -1,5 +1,5 @@
 {
 	"tasks": {
-		"serve:": "deno run -A --watch=build,server.ts server.ts"
+		"serve:": "deno run -A --watch=docs,server.ts server.ts"
 	}
 }
