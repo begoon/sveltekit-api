@@ -7,9 +7,9 @@ const config = {
 
 	kit: {
 		adapter: adapter({
-			pages: 'docs',
-			assets: 'docs'
-		})
+			pages: 'docs'
+		}),
+		appDir: 'internal'
 	}
 };
 
